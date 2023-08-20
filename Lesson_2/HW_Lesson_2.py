@@ -71,4 +71,9 @@ print('Test case passed')
 
 driver.quit()
 
+###  Submitting homework   #####
 
+# ........      git add 'name of file here'
+#  jfernandez$ git commit -m 'Lesson 2 homework'
+# ....         git push
+#   copy url link from git hub to homework workspace
